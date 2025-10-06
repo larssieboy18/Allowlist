@@ -10,5 +10,8 @@ Run `sudo pihole allowlist https://raw.githubusercontent.com/larssieboy18/Allowl
 ## Suggestions
 If you have a suggestion for the allowlist, feel free to open an issue or PR.
 
+## Sources
+This allowlist includes both websites that were included by others and myself. Sources include [anudeepND/whitelist](https://github.com/anudeepND/whitelist). 
+
 ## Other questions?
 Open an issue.
