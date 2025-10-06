@@ -5,7 +5,7 @@ This repo will contain url's that are sometimes blocked by (over)aggresive block
 The goal of this repo is to decrease the amount of annoyance by reducing the amount of websites that are incorrectly blocked, while maintaining user privacy.
 
 ## How to add to Pi-Hole?
-Run `sudo pihole allowlist https://raw.githubusercontent.com/larssieboy18/Allowlist/refs/heads/main/whitelist.txt`
+Run `sudo pihole allowlist https://github.com/larssieboy18/Allowlist/blob/main/whitelist.txt` or add it through the Pi-Hole web interface: `[YOUR IP HERE]/admin/groups/domains`
 
 ## Suggestions
 If you have a suggestion for the allowlist, feel free to open an issue or PR.
